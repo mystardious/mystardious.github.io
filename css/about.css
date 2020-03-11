@@ -1,0 +1,26 @@
+/*
+    About TAC Container
+*/
+
+#about_main {
+    width:990px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3, p {
+    padding: 10px;
+}
+
+#about_staff {
+    width: 990px;
+    margin: auto;
+    padding: 5px;
+    height: 533.1px;
+    background:#006bb6;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+

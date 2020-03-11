@@ -1,0 +1,97 @@
+#services b {
+	text-decoration:underline;
+	padding:17px 4px;
+	margin-bottom:10px;
+}
+#services h3 {
+	width:100%;
+	background-color:#006bb6;
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	text-align:center;
+	margin-bottom:5px;
+}
+button {
+	background:none;
+	border:none;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	font-family: 'Roboto', sans-serif;
+	font-size:16px;
+}
+#services li {
+	list-style-type:disc;
+	margin-left:45px;
+	padding:5px;
+}
+
+#services ul {
+	margin-left:10px;
+}
+#services {
+	margin-bottom:5px;
+}
+#services p {
+	margin-left:3px;
+	display:block;
+	margin-bottom:10px;
+}
+#contact_callus {
+    width: 477.5px;
+    padding: 10px;
+    float: left;
+}
+
+#services_main {
+    width: 1000px;
+    margin: auto;
+    background: #DCE0E6;
+    padding: 5px;
+    border-radius: 5px;
+}
+#services {
+	width:1000px;
+	margin:auto;
+	margin-top:5px;
+}
+#servicecontainer {
+	width:100%;
+	padding:0;
+	margin:0;
+	float:left;
+}
+#serviceholder {
+	width:250px;
+	border:1px solid black;
+	float:left;
+	padding:0;
+	margin:0;
+}
+#serviceholder b{
+	display:block;	
+}
+#servicecontent {
+	width:725px;
+	float:left;
+	margin-left:20px;
+}
+#servicecontent div {
+	padding:15px;
+}
+#servicecontent b {
+	display:block;
+	margin-bottom:10px;
+	padding:0;
+}
+#container {
+	margin-bottom:10px;
+}
+#callus {
+	width:1000px;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+}
+

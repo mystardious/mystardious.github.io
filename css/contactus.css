@@ -1,0 +1,91 @@
+#partners {
+    width: 1000px;
+    margin: auto;
+}
+
+#rabii {
+    width: 491px;
+    height: 250px;
+    float: left;
+    background-image: url("../images/rabii.png");
+    background-size: 491px 250px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#edwin {
+    width: 491px;
+    height: 250px;
+    float: left;
+    background-image: url("../images/edwin.png");
+    background-size: 491px 250px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#edwin_content {
+    width: 247.5px;
+    margin-top: 90px;
+    float: right;
+}
+
+#rabii_content {
+    width: 247.5px;
+    margin-top: 90px;
+    float: right;
+}
+
+#partners h2 {
+    padding: 2px 0px;
+}
+
+p {
+    padding: 0px;
+}
+
+.email {
+    padding: 10px 0px;
+}
+
+#mid a {
+    text-decoration: none;
+}
+#mid a:hover {
+    color:black;
+}
+.contact_main {
+    width: 300px;
+    float: left;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#contact_container {
+    width: 1000px;
+    margin: auto;
+}
+
+#contact_main p {
+    padding: 5px 0px;
+}
+
+.margin {
+    margin-left: 20px;
+}
+#contact_main li {
+    margin: 0px;
+}
+.contact_main li {
+    text-align: center;
+    padding: 5px;
+}
+
+#fb {
+    border:1px solid white;
+}
+#fb:hover {
+    border-radius: 5px;
+    border:1px solid red;
+}

@@ -1,0 +1,174 @@
+/*
+    Default Styles
+*/
+
+html, body {
+	margin:0;
+	padding:0;
+    font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, p, ul, li, a {
+	margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    float: left;
+}
+
+.carousel-control.right {
+    background-image: none;
+}
+.carousel-control.left {
+    background-image: none;
+}
+
+/* 
+   Header START
+*/
+
+#top {
+	width:100%;
+	float:left;
+    margin-top: 5px;
+    font-size: 16px;
+}
+#topcontainer {
+	width:1000px;
+	margin:auto;
+}
+.navcontainer {
+	width:300px;
+	height:50px;
+	margin-top:50px;
+	margin-left:25px;
+	margin-right:25px;
+	float:left;
+	background:#006bb6;
+	border-radius:5px;
+}
+.navcontainer ul {
+	list-style-type:none;
+    text-align: center;
+    padding: 16px;
+    border-radius: 5px;
+}
+.navcontainer ul li {
+	display:inline;
+    padding: 0px 30px;
+}
+.navcontainer ul li a {
+    text-decoration: none;
+    color: white;
+}
+.navcontainer ul li a:hover {
+    color: #00CCFF;
+}
+#taclogo {
+	width:290px;
+	height:140px;
+	float:left;
+	padding:5px;
+}
+
+/*
+    Header END
+*/
+
+/*
+    Index Styles
+*/
+
+#mid {
+	width:100%;
+	float:left;
+	margin-top:5px;
+    
+}
+#mad {
+	width:100%;
+	float:left;
+}
+#madcont{
+	width:80%;
+	margin:auto;
+    padding: 5px;
+	border-radius:5px;
+	background:#006bb6;
+}
+
+/*
+    Slider
+*/
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+  }
+
+/* 
+    Footer START
+*/
+
+#bot {
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    background: #0C1821;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+
+#footer_details h4, p, li {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 9px;
+}
+
+#bot a {
+    color:white;
+    text-decoration: none;
+}
+
+#bot a:hover {
+    color:dodgerblue;
+}
+
+#botcontainer {
+    width: 1000px;
+    margin: auto;
+}
+
+#footer_details {
+    width: 100%;
+    float: left;
+}
+
+.bototcontainer {
+    width: 300px;
+    height: 180px;
+    float: left;
+}
+
+#footer_logo {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+#footer_logo_container {
+    width: 950px;
+    margin: auto;
+    border-top: 1px solid white;
+}
+#footer_logo_container p {
+    padding: 15px;
+}
+
+/*
+    Footer END
+*/
